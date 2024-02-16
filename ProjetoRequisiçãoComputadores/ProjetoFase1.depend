@@ -1,0 +1,144 @@
+# depslib dependency file v1.0
+1671737128 source:c:\users\helder\desktop\projetofase1\funcoesleitura.c
+	<stdio.h>
+	<string.h>
+	"funcoesLeitura.h"
+
+1671574155 c:\users\helder\desktop\projetofase1\funcoesleitura.h
+	"funcoesPrincipal.h"
+
+1671987621 c:\users\helder\desktop\projetofase1\funcoesprincipal.h
+	"funcoesAuxiliares.h"
+
+1671991024 source:c:\users\helder\desktop\projetofase1\funcoesprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoesPrincipal.h"
+
+1671987622 source:c:\users\helder\desktop\projetofase1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoesPrincipal.h"
+
+1671893040 source:c:\users\helder\desktop\problema do fichbin resolvido (aparentemente)\funcoesleitura.c
+	<stdio.h>
+	<string.h>
+	"funcoesLeitura.h"
+
+1671893040 c:\users\helder\desktop\problema do fichbin resolvido (aparentemente)\funcoesleitura.h
+	"funcoesPrincipal.h"
+
+1671893040 c:\users\helder\desktop\problema do fichbin resolvido (aparentemente)\funcoesprincipal.h
+	"funcoesLeitura.h"
+
+1671893040 source:c:\users\helder\desktop\problema do fichbin resolvido (aparentemente)\funcoesprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoesPrincipal.h"
+
+1671893301 source:c:\users\helder\desktop\problema do fichbin resolvido (aparentemente)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoesPrincipal.h"
+
+1671893040 source:c:\users\helder\desktop\mais atualizado\funcoesleitura.c
+	<stdio.h>
+	<string.h>
+	"funcoesLeitura.h"
+
+1671893040 c:\users\helder\desktop\mais atualizado\funcoesleitura.h
+	"funcoesPrincipal.h"
+
+1671980317 c:\users\helder\desktop\mais atualizado\funcoesprincipal.h
+	"funcoesLeitura.h"
+
+1671983789 source:c:\users\helder\desktop\mais atualizado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoesPrincipal.h"
+
+1671984306 source:c:\users\helder\desktop\mais atualizado\funcoesprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoesPrincipal.h"
+
+1671983789 source:c:\users\helder\desktop\mais atualizado - cópia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoesPrincipal.h"
+
+1671985359 c:\users\helder\desktop\mais atualizado - cópia\funcoesprincipal.h
+	"funcoesAuxiliares.h"
+
+1671985359 c:\users\helder\desktop\mais atualizado - cópia\funcoesauxiliares.h
+	"funcoesPrincipal.h"
+
+1671985717 source:c:\users\helder\desktop\mais atualizado - cópia\funcoesprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoesPrincipal.h"
+
+1671985359 source:c:\users\helder\desktop\mais atualizado - cópia\funcoesauxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoesAuxiliares.h"
+
+1671985359 source:c:\users\helder\desktop\projetofase1\funcoesauxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoesAuxiliares.h"
+
+1671985359 c:\users\helder\desktop\projetofase1\funcoesauxiliares.h
+	"funcoesPrincipal.h"
+
+1673334501 source:c:\users\helder\desktop\projeto\projetofase1\funcoesauxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoesAuxiliares.h"
+
+1673334521 c:\users\helder\desktop\projeto\projetofase1\funcoesauxiliares.h
+	"funcoesPrincipal.h"
+
+1673334521 c:\users\helder\desktop\projeto\projetofase1\funcoesprincipal.h
+	"funcoesAuxiliares.h"
+
+1673426727 source:c:\users\helder\desktop\projeto\projetofase1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoesPrincipal.h"
+
+1673427132 source:c:\users\helder\desktop\projeto\projetofase1\funcoesprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+	"funcoesPrincipal.h"
+
